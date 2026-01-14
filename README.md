@@ -16,7 +16,8 @@ The GTD dataset contains detailed information on terrorist attacks worldwide. In
 ![example-bar-chart]()  
 *Number of attacks by country
 
-![example-map]('top 10 countries by hostage cases.png')  
+![Top 10 countries by hostage cases](images/hostage_top10.png)
+ 
 *Top 10 countries by hostage cases*
 
 ## 🚀 How to Run
