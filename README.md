@@ -40,3 +40,8 @@ Data comes from the **Global Terrorism Database (GTD)**: [GTD Dataset](https://w
 
 - 📆 Trend analysis over time  
 - 🌎 Country-level insights  
+- 📊 Clear and interactive visualizations for research or reporting
+
+## 📝 License(MIT License)
+
+Educational use only. Please cite if used in research.
