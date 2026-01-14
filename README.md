@@ -1,41 +1,47 @@
-🌍 Global Terrorism Data Analysis (GTD)
+# Global Terrorism Data Analysis (GTD)
 
-A comprehensive exploration of the Global Terrorism Database (GTD) using Python and Google Colab. This project focuses on analyzing patterns, trends, and insights from global terrorism incidents.
+This project explores the **Global Terrorism Database (GTD)** using Python in Google Colab. The goal is to analyze patterns and trends in global terrorism incidents and visualize insights effectively.
 
-🔍 Overview
+## Overview
 
-The Global Terrorism Database contains detailed information on terrorist attacks worldwide. In this project, I performed:
+The GTD dataset contains detailed information on terrorist attacks worldwide. In this project, I:
 
-Data Cleaning & Processing – Handling missing values, formatting columns, and preparing the dataset for analysis
+- Cleaned and prepared the dataset for analysis  
+- Performed exploratory data analysis (EDA)  
+- Visualized trends over time, countries, and attack types  
+- Highlighted key insights through clear charts
 
-Exploratory Data Analysis (EDA) – Identifying trends over time, countries, and attack types
+## Sample Visualizations
 
-Visualizations – Using Matplotlib and Seaborn to create clear, impactful charts
+![example-bar-chart](https://raw.githubusercontent.com/yourusername/repo/main/images/bar_chart.png)  
+*Number of attacks by country*
 
-Insights – Highlighting key patterns that can help understand global terrorism dynamics
+![example-heatmap](https://raw.githubusercontent.com/yourusername/repo/main/images/heatmap.png)  
+*Attack types across regions*
 
-📊 Sample Visualizations
+## How to Run
 
+1. Open the [Colab Notebook](your-colab-link)  
+2. Run all cells to see analysis and visualizations  
+3. Explore trends and insights
 
-Figure 1: Number of attacks by country
+## Tools & Libraries
 
+- Python 3.x  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Google Colab
 
-Figure 2: Attack types across regions (heatmap)
+## Dataset
 
-🚀 How to Run
+Data comes from the **Global Terrorism Database (GTD)**: [GTD Dataset](https://www.start.umd.edu/gtd/)
 
-Open the Colab Notebook
+## Highlights
 
-Run all cells to see the analysis and visualizations
+- Trend analysis over time  
+- Country-level insights  
+- Clear and interactive visualizations for research or reporting
 
-Explore the charts and insights
+## License
 
-🛠 Tools & Libraries
-
-Python 3.x
-
-Pandas & NumPy for data manipulation
-
-Matplotlib & Seaborn for visualization
-
-Google Colab for interactive coding
+Educational use only. Please cite if used in research.
