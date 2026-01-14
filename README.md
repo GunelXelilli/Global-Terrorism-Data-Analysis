@@ -27,7 +27,7 @@ The GTD dataset contains detailed information on terrorist attacks worldwide. In
 
 ## 📂 Dataset
 
-Data comes from the **Global Terrorism Database (GTD)**: [GTD Dataset](https://www.start.umd.edu/gtd/)
+Data comes from the **Global Terrorism Database (GTD)** 
 
 ## ✨ Highlights
 
