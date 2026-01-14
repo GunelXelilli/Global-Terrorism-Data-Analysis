@@ -13,11 +13,11 @@ The GTD dataset contains detailed information on terrorist attacks worldwide. In
 
 ## 📊 Sample Visualizations
 
-![example-bar-chart](https://raw.githubusercontent.com/yourusername/repo/main/images/bar_chart.png)  
+![example-bar-chart]()  
 *Number of attacks by country*
 
-![example-heatmap](https://raw.githubusercontent.com/yourusername/repo/main/images/heatmap.png)  
-*Attack types across regions*
+![example-map]()  
+*Deaths and Wounded by Target Type*
 
 ## 🚀 How to Run
 
